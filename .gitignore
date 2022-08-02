@@ -1,3 +1,15 @@
+# --- This is recommended FSH gitignore ---
+
+.DS_Store
+Thumbs.db
+/fsh-generated
+/input-cache
+/output
+/temp
+/template
+
+# --- The rest is recommended node gitignore ---
+
 # Logs
 logs
 *.log
